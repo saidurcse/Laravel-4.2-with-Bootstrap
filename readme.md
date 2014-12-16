@@ -97,7 +97,7 @@ RewriteRule ^ index.php [L]</code></pre>
 <pre><code>location / {
     try_files $uri $uri/ /index.php?$query_string;
 }</code></pre>
-            </div>
+            
 
 
 
