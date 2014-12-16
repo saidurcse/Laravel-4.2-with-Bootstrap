@@ -22,7 +22,7 @@ It is a package of Laravel-4.2-with-Bootstrap-3.3.1.
 
 
 <h2>2. Install Laravel</h2>
-<ul>
+
 <h3>
 <a id="user-content-step-1-get-the-code" class="anchor" href="#step-1-get-the-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Step 1: Get the code</h3>
 
@@ -50,7 +50,6 @@ $ composer update</pre></div>
 <a id="user-content-step-1-get-the-code" class="anchor" href="#step-1-get-the-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Step 3: Configure Database</h3>
 <h4>Option 1: Configure the following file <pre>app/config/database.php</pre></h4>
 
-</ul>
 
 
 
