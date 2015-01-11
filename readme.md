@@ -29,7 +29,7 @@ It is a package of Laravel-4.2-with-Bootstrap-3.3.1.
 <h4>
 <a id="user-content-option-1-git-clone" class="anchor" href="#option-1-git-clone" aria-hidden="true"><span class="octicon octicon-link"></span></a>Option 1: Git Clone</h4>
 
-<div class="highlight highlight-bash"><pre>$ git clone https://github.com/saidurcse/Laravel-4.2-with-Bootstrap.git laravel</pre></div>
+<div class="highlight highlight-bash"><pre>$ git clone https://github.com/saidurcse/Laravel-4.2-with-Bootstrap.git</pre></div>
 
 <h4>
 <a id="user-content-option-2-download-the-repository" class="anchor" href="#option-2-download-the-repository" aria-hidden="true"><span class="octicon octicon-link"></span></a>Option 2: Download the repository</h4>
